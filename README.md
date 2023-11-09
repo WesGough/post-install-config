@@ -18,7 +18,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Configure different Roles, Departments, and Teams inside osTicket
+- Configure different <a href="https://docs.osticket.com/en/latest/Admin/Agents/Roles.html" a> Roles, Departments, and Teams inside osTicket
 - Change settings to allow anyone to create tickets
 - Setup and configure different Agents, Users, and SLA
 
